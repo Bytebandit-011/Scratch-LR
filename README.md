@@ -1,1 +1,4 @@
-![IMG_20250924_170616](https://github.com/user-attachments/assets/89e26046-30a7-4cd1-91be-b725bb296881)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8902359c-2e0c-4b25-a45c-8a45afa28fc3" alt="Linear Regression Basics" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1d9c66c0-9cc9-4d61-a378-d8f316a88fd9" alt="Linear Regression Derivation" width="45%" />
+</div>
